@@ -290,6 +290,8 @@ JS API 来自于[react-code-game](https://github.com/webzhd/react-code-game) ，
 
 感谢 [Luyu Cheng](https://github.com/chengluyu)，我认识的最酷的前端大佬，给项目与我的前端自学提供了无尽的帮助。在项目初期帮助我进行技术选型，在开发阶段帮我解决技术问题，为我不知道如何实现的 feature 提供技术思路，也为项目贡献了很多非常受欢迎的 feature。
 
+朗文
+
 ## 🌟 Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Realkai42/qwerty-learner.svg)](https://starchart.cc/Realkai42/qwerty-learner)
