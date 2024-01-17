@@ -2849,16 +2849,220 @@ const germanExam: DictionaryResource[] = [
 // english dcit
 const englishDict: DictionaryResource[] = [
   {
-    id: 'english001',
+    id: 'longman001',
     name: 'LongmanDict',
     description: '朗文词典',
     category: '英语学习',
-    tags: ['进阶', 'dictionary'],
-    url: '/dicts/longman_dictionary.json',
-    length: 52749,
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_1.json',
+    length: 3000,
     language: 'en',
-    languageCategory: 'en',
-  },
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman002',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_2.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman003',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_3.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman004',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_4.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman005',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_5.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman006',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_6.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman007',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_7.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman008',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_8.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman009',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_9.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman010',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_10.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman011',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_11.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman012',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_12.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman013',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_13.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman014',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_14.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman015',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_15.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman016',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_16.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman017',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_17.json',
+    length: 3000,
+    language: 'en',
+    languageCategory: 'en'
+  }
+  ,
+  {
+    id: 'longman018',
+    name: 'LongmanDict',
+    description: '朗文词典',
+    category: '英语学习',
+    tags: [ '朗文词典' ],
+    url: '/dicts/longman/longman_dict_18.json',
+    length: 1630,
+    language: 'en',
+    languageCategory: 'en'
+  }
 ]
 
 /**
