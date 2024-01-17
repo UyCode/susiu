@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Qwerty Learner - Susiu ❤️
+  Qwerty Learner - ❤️ Susiu ❤️
 </h1>
 
 <p align="center">
